@@ -28,3 +28,4 @@ DataWhale社区 —— 大模型开发系列课程中文系列
 
 DeepLearning.AI社区 —— 吴恩达老师大模型开发系列课程
 
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor-frontend) - AI monitoring dashboard for AI agents and LLMs. [Demo](https://flik2002.github.io/openclaw-monitor-frontend)
